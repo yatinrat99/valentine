@@ -59,7 +59,7 @@ export default function App() {
             />
           </div>
           <h1 className="text-5xl md:text-7xl font-bold text-pink-600 flex items-center justify-center gap-3">
-            Good
+            Good Girl
             <Heart className="w-12 h-12 md:w-16 md:h-16 fill-pink-500 text-pink-500 animate-pulse" />
             <i data-lucide="heart"></i>
           </h1>
