@@ -1,0 +1,25 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore build artifacts
+/build
+/dist
+*.egg-info/
+
+# Ignore dependency caches
+/node_modules
+/vendor
+
+# Ignore temporary files and logs
+*.log
+.tmp/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore personal IDE/editor configuration files
+.idea/
+.vscode/
+*.swpgit rm -r --cached frontend/node_modules
